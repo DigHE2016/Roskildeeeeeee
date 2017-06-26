@@ -4,4 +4,3 @@
 ### **Hello Camp**
 ### **Hello Dicte**
 ***Øløløløløløl***
-:smiley:
