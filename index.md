@@ -1,8 +1,7 @@
 # Hello World
 ## _Hello Denmark_
-Hello Roskilde
-**Hello Camp**
-:metal:
-**Hello Dicte**
-:smiley:
+## Hello Roskilde
+### **Hello Camp**
+### **Hello Dicte**
 Øløløløløløl
+ :smile:
