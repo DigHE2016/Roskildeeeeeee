@@ -3,6 +3,6 @@ _Hello Denmark_
 Hello Roskilde
 **Hello Camp**
 :metal:
-Hello Dicte
+**Hello Dicte**
 :smiley:
-  
+Øløløløløløl
